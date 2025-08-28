@@ -3,11 +3,14 @@
   "version": "1.0.0",
   "description": "Jagadeesh Tanniru's Professional Portfolio",
   "main": "src/index.js",
+  "homepage": "https://jagadeesh-333.github.io/my-portfolio",
   "scripts": {
     "start": "react-scripts start",
     "build": "react-scripts build",
     "test": "react-scripts test",
-    "eject": "react-scripts eject"
+    "eject": "react-scripts eject",
+    "predeploy": "npm run build",
+    "deploy": "gh-pages -d build"
   },
   "dependencies": {
     "framer-motion": "^12.23.12",

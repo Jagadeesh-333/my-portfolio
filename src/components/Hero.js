@@ -120,7 +120,7 @@ export default function Hero() {
           className="mt-10 flex flex-wrap gap-4 justify-center"
         >
           <motion.a
-            href="/assets/Jagadeesh_Tanniru_Resume.pdf"
+            href="/Jagadeesh_Tanniru_Resume.pdf"
             target="_blank"
             rel="noopener noreferrer"
             className="flex items-center gap-2 px-6 py-3 bg-gradient-to-r from-blue-600 to-purple-600 text-white font-semibold rounded-lg shadow-md hover:shadow-lg hover:from-blue-700 hover:to-purple-700 transition-all duration-300"

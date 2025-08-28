@@ -35,7 +35,7 @@ const About = () => {
           <div className="relative">
             <div className="w-72 h-72 md:w-80 md:h-80 relative overflow-hidden rounded-2xl shadow-2xl">
               <img
-                src="/shared.png"
+                src={`${process.env.PUBLIC_URL}/shared.png`}
                 alt="Jagadeesh"
                 className="w-full h-full object-cover transform hover:scale-105 transition-transform duration-500"
               />

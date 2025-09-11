@@ -23,11 +23,11 @@ const Experience = () => {
       technologies: ["Java", "Spring Boot", "Microservices", "REST APIs", "Kafka", "MySQL", "PostgreSQL"],
       projects: [
         {
-          name: "OPTUS (Australia)",
+          name: "INDIGIT",
           description:
             "Built microservices with REST APIs and Kafka for asynchronous messaging. Designed database schemas for clients.",
           details: [
-            "Developed 10+ microservices handling different business domains.",
+            "Developed microservices handling different business domains.",
             "Implemented RESTful APIs for seamless integration with front-end applications.",
             "Designed scalable database schemas for high-traffic applications.",
             "Implemented batch processing  for real-time data handling.",

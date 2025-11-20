@@ -31,7 +31,8 @@ const Experience = () => {
             "Implemented RESTful APIs for seamless integration with front-end applications.",
             "Designed scalable database schemas for high-traffic applications.",
             "Implemented batch processing  for real-time data handling.",
-            "Integrated with government APIs for compliance and reporting."
+            "Integrated with government APIs for compliance and reporting.",
+            "Worked on LCNC Platform to build metadata-driven modules, automations."
           ]
         },
         {
